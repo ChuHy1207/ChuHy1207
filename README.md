@@ -12,7 +12,7 @@
   <a href="https://www.facebook.com/chuhy1207" target="blank">
     <img src="https://img.icons8.com/dusk/50/000000/facebook--v2.png"/> 
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+  <a href="https://www.linkedin.com/in/hy-chu-a157691b2/" target="blank">
     <img src="https://img.icons8.com/dusk/50/000000/linkedin--v2.png"/>
   </a>
   <a href="mailto:chuhy120799@gmail.com" target="top">
