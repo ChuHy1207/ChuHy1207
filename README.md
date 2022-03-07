@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- ChuHy -->
+<a href="#" target="_blank">
+  <img src="chuhyimage.svg" width="1200" alt="Click to see the source" />
+</a>
 
-<!--
-**ChuHy1207/ChuHy1207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/chuhy1207" target="blank">
+    <img src="https://img.icons8.com/dusk/50/000000/facebook--v2.png"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+    <img src="https://img.icons8.com/dusk/50/000000/linkedin--v2.png"/>
+  </a>
+  <a href="mailto:chuhy120799@gmail.com" target="top">
+    <img src="https://img.icons8.com/color/50/000000/gmail--v2.png"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
